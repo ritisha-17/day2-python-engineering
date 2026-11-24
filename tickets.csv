@@ -1,0 +1,6 @@
+ticket_id,customer_name,service_type,priority,created_date
+T101,Rahul,repair,high,2026-11-24
+T102,Priya,maintenance,medium,2026-11-24
+T103,Arun,cleaning,low,2026-11-24
+T104,Anu,installation,high,2026-11-24
+T105,Kiran,repair,low,2026-11-24
