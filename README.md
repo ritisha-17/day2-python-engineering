@@ -33,3 +33,6 @@ python -m pytest -v
 - Valid tickets: 4
 - Invalid tickets: 1
 - Test cases passed: 5
+git add README.md
+
+Project completed as part of Day 2 Python Engineering Bootcamp.
